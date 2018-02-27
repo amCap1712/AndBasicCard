@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/bilbo_swash_caps</item>
+        <item>@font/euphoria_script</item>
+        <item>@font/homemade_apple</item>
+        <item>@font/playfair_display_italic</item>
+        <item>@font/roboto</item>
+        <item>@font/wendy_one</item>
+    </array>
+</resources>

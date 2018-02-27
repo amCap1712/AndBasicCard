@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fonts">
+        <item>Bilbo Swash Caps</item>
+        <item>Euphoria Script</item>
+        <item>Homemade Apple</item>
+        <item>Roboto</item>
+        <item>Wendy One</item>
+    </string-array>
+</resources>

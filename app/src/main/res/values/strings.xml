@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Downloadable Fonts</string>
+    <string name="quantity">QUANTITY</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="quantity_text_view">0</string>
+    <string name="button_text">Choose Font</string>
+    <string name="quantitty">QUANTITY</string>
+    <string name="price">PRICE</string>
+    <string name="price_text_view">0</string>
+</resources>
